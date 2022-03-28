@@ -63,4 +63,4 @@ Step-By-Step @TODO
 
 Check Web App Deployment is alive:
 
-*https://myalb-795454577.ca-central-1.elb.amazonaws.com*
+*http://xyz-795454577.ca-central-1.elb.amazonaws.com*
